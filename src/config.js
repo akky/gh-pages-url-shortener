@@ -4,4 +4,4 @@ const GITHUB_ISSUES_LINK =
 
 const PATH_SEGMENTS_TO_SKIP = 0;
 
-const HOST = "nlsn.cf";
+const HOST = "s.akimoto.jp";
